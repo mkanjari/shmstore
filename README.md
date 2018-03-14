@@ -1,4 +1,4 @@
-# shmstore
+# shmstore - a shared memory key,value store
 A simple shared memory <key,value> store.
 
 Key is a uint64_t key and value is a string (of size 256). 
