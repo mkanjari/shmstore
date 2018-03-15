@@ -12,3 +12,9 @@ shmstore provides the follwing APIs defined in lib/shm.h
 The shared memory is divided into two parts:
 1. hash buckets
 2. hash data
+
+How to run:
+From the ws:
+1. make clean
+2. make
+3. ./shmstore <input file> <operation>
